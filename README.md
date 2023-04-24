@@ -1,6 +1,7 @@
 # DS-P3-Concevez-une-application-au-service-de-la-sante-publique
-Titre du projet pour le portfolio: "Conception d'une application pour la santé publique en utilisant les données Open Food Facts"
-Introduction
+# Titre du projet: "Conception d'une application pour la santé publique en utilisant les données Open Food Facts"
+
+## Introduction
 Ce projet a été réalisé dans le cadre de ma formation en data science sur OpenClassrooms. Le projet numéro 3 consistait à concevoir une application au service de la santé publique en utilisant les données Open Food Facts.
 
 ## Mission
